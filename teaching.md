@@ -12,7 +12,7 @@ permalink: /teaching
 
 #### Semester 1
 
-- [ALGO 6003](https://github.com/eugkenny/ALGO6003) (Fundamentals of Data Structures & Algorithms)
-- [COMP 7028](https://github.com/eugkenny/COMP7028) (Statistics, Algorithms & Artificial Intelligence)
-- [GADV 8001](https://github.com/eugkenny/GADV8001) (Game Physics)
+- [ALGO 6003](https://eugkenny.github.io/ALGO6003) (Fundamentals of Data Structures & Algorithms)
+- [COMP 7028](https://eugkenny.github.io/COMP7028) (Statistics, Algorithms & Artificial Intelligence)
+- [GADV 8001](https://eugkenny.github.io/GADV8001) (Game Physics)
 
