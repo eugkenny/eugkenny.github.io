@@ -1,0 +1,16 @@
+<ul class="menu">
+
+    {% for eug in site.data.menu %}
+    {% if eug.subcategories != null %}
+    <li><a href="{{ eug.href }}" class="page-link">{{ eug.title }}</a>
+    <ul class="sub-menu">
+    {% for subcategory in eug.subcategories %}
+    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+    {% else %}
+     <li><a href="{{ eug.href }}" class="page-link">{{ eug.title }}</a>
+    {% endif %}
+    </li>
+    {% endfor %}
+    </ul>

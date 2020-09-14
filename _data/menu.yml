@@ -1,0 +1,21 @@
+- title: "About"
+  href: "/about/"
+
+#- title: "Blog"
+#  href: "/blog/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "Research"
+  href: "/research/"
+
+- title: "Teaching"
+  href: "/teaching/"
+  subcategories:
+    - subtitle: "ALGO 6003 – Fundamentals of Data Structures and Algorithms"
+      subhref: "https://github.com/eugkenny/ALGO6003"
+    - subtitle: "COMP 7028 – Statistics, Algorithms & Artificial Intelligence"
+      subhref: "https://github.com/eugkenny/COMP7028"
+    - subtitle: "GADV 8001 – Game Physics"
+      subhref: "https://github.com/eugkenny/GADV8001"
