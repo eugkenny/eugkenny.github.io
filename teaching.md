@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching
+permalink: /teaching/
 ---
 
 <hr style="clear:both;visibility: hidden;" />
